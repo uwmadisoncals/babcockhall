@@ -11,6 +11,10 @@ Version:        0.1.0
 @import url("../calsmain2013/style.css");
 @import url("../calsmain2013/master.css");
 
+.home #main {
+	margin-top: 0px !important;
+}
+
 #main2 {
 	clear: both;
     padding: 0 0 0;
