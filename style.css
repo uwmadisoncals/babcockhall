@@ -304,6 +304,10 @@ Version:        0.1.0
 	min-height: 500px;
 }
 
+.contrastmask2 {
+	display: none;
+}
+
 
 .collegeFeature .slideImage {
 	

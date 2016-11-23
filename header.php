@@ -432,7 +432,7 @@ echo $src[0]; ?>';
 
 			<?php } ?>
 
-    					<div class="slideImage <?php echo $slideclass ?>">
+    					<div class="<?php echo $slideclass ?>">
     								<div class="headerBgContainer"><div class="headerbgBlur"><div class="headerbgBlurImage"></div></div></div>
     								<div class="slideImageSeperate <?php echo $slideclass ?>" style="background: url('<?php
 
