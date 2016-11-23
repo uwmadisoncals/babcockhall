@@ -304,6 +304,19 @@ Version:        0.1.0
 	min-height: 500px;
 }
 
+
+.collegeFeature .slideImage {
+	
+	-ms-filter: blur(0px);
+-webkit-filter: blur(0px);
+-moz-filter: blur(0px);
+-o-filter: blur(0px);
+filter: url("#blur0px");
+filter: progid:DXImageTransform.Microsoft.Blur(pixelradius=0);
+	
+}
+
+
 .timelineEntries .singletimelineentry.right-dot .timelinecontent:after {
 	left: 100%;
 	top: 22px;
